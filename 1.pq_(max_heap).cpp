@@ -1,4 +1,5 @@
 // priority queue is a type of queue where we can store elements in descending (by default) or ascending order.
+// log n complexity
 // we can only access top().
 // we can perform operations like pq.empty() says if it is empty or not, pq.top() returns the element at the top, 
 // pq.push() pushes element at the end , pq.pop() pops the element at beginning
